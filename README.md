@@ -4,7 +4,7 @@ Welcome to Sav-Permissions, a fantastic project that leverages the power of Disc
 
 ## Getting Started
 
-Follow these steps to kickstart your Phans-Permissions experience:
+Follow these steps to kickstart your Sav-Permissions experience:
 
 3. Clone this repository to your local machine:
 
