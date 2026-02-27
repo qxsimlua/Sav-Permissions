@@ -18,7 +18,7 @@ Follow these steps to kickstart your Phans-Permissions experience:
     cd Sav-Permissions
     ```
 
-5. Start exploring and customizing your Phans-Permissions experience!
+5. Start exploring and customizing your Sav-Permissions experience!
 
 ## Features
 
